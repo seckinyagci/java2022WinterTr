@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="683125ca-2697-4439-bfb6-f4f99b5e16e9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Java2021SummerTr/Java2021SummerTr.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/belirliClasslariCalistirma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/resources/ulkeler.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day05_Junit/C01_MavenIlkClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day05_Junit/C02_MavenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day05_Junit/C03_JUnitIlkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day05_Junit/C04_BeforeAfter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day05_Junit/soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day06_BeforeAfterClass/C01_BeforeAfterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day06_BeforeAfterClass/C02_CheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day06_BeforeAfterClass/C03_RadioButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day06_BeforeAfterClass/C04_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day07_assertions/C01_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day07_assertions/C02_BestBuyAssertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day07_assertions/C03_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day07_assertions/C04_DropDownMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day07_assertions/C05_DropDownOptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day07_assertions/C06_DropDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day08_alerts/C01_Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day08_alerts/C02_Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day08_alerts/C03_BasicAuthentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day08_alerts/C04_IFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day09_handleWindows_testBase/C01_handleWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day09_handleWindows_testBase/C02_handleWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day09_handleWindows_testBase/C03_windowHandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day10_actions/C01_TestBaseFirstClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day10_actions/C02_Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day10_actions/C03_Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day10_actions/C04_Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day10_actions/C06_KeyboardActions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day11_faker_file/C01_Faker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day12_synchronization/C01_ExolicitlyWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day13_cookies_webTables/C01_Cookies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day13_cookies_webTables/C02_WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day13_cookies_webTables/C03_WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day14_excel/C01_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day14_excel/C02_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day14_excel/C03_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day14_excel/C04_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day14_excel/C05_ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day15_writeExcel_screenShot/C01_WriteExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day15_writeExcel_screenShot/C02_ScreenShot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day15_writeExcel_screenShot/C03_IstenenWebElementSs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/day15_writeExcel_screenShot/C04_JS_Executor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/deneme/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/utilities/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59JUnit/src/test/java/utilities/TestBaseRapor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/.idea/libraries/libraries.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/drivers/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/CHANGELOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/async-http-client-2.12.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/async-http-client-netty-utils-2.12.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/auto-common-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/auto-service-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/auto-service-annotations-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/byte-buddy-1.12.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/checker-qual-3.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/commons-exec-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/error_prone_annotations-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/failsafe-3.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/failureaccess-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/guava-31.1-jre.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/j2objc-annotations-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/jakarta.activation-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/jcommander-1.82.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/jsr305-3.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/jtoml-2.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/netty-buffer-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/netty-codec-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/netty-codec-http-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/netty-codec-socks-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/netty-common-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/netty-handler-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/netty-handler-proxy-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/netty-reactive-streams-2.0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/netty-resolver-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/netty-transport-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/netty-transport-classes-epoll-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/netty-transport-classes-kqueue-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/netty-transport-native-epoll-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/netty-transport-native-kqueue-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/netty-transport-native-unix-common-4.1.76.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/opentelemetry-api-1.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/opentelemetry-context-1.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/opentelemetry-exporter-logging-1.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/opentelemetry-sdk-1.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/opentelemetry-sdk-common-1.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/opentelemetry-sdk-extension-autoconfigure-1.13.0-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/opentelemetry-sdk-logs-1.13.0-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/opentelemetry-sdk-metrics-1.13.0-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/opentelemetry-sdk-trace-1.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/opentelemetry-semconv-1.13.0-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/reactive-streams-1.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/lib/slf4j-api-1.7.36.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-api-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-api-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-chrome-driver-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-chrome-driver-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-chromium-driver-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-chromium-driver-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-devtools-v100-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-devtools-v100-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-devtools-v101-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-devtools-v101-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-devtools-v85-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-devtools-v85-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-devtools-v99-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-devtools-v99-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-edge-driver-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-edge-driver-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-firefox-driver-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-firefox-driver-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-http-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-http-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-ie-driver-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-ie-driver-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-java-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-java-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-json-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-json-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-opera-driver-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-opera-driver-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-remote-driver-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-remote-driver-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-safari-driver-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-safari-driver-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-support-4.1.4-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/resources/libraries/selenium-support-4.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day01_seleniumProje/C01_IlkClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day02_driverMethodlari/C01_Tekrar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day02_driverMethodlari/C02_DriverMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day02_driverMethodlari/C03_IlkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day02_driverMethodlari/C04_getPageSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day02_driverMethodlari/C05_getWindowHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day02_driverMethodlari/C06_Navigator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day02_driverMethodlari/C07_manageMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day02_driverMethodlari/C08_manageMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day02_driverMethodlari/C09_manageMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day03_locators/C01_Locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day03_locators/C02_findElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day03_locators/C03_Locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day03_locators/C04_WebElemntMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day04_xpath_cssLocator/C01_AmazonSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.Batch59Selenium/src/test/java/day04_xpath_cssLocator/C02_xpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/src/CrossBrowserClassCalistirma.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/src/test/java/tests/day22_crossBrowser/C01_AssertionsCross.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/src/test/java/tests/day22_crossBrowser/C02_SoftAssertCross.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/src/test/java/tests/day22_crossBrowser/C03_DataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/src/test/java/tests/day22_crossBrowser/C04_NegativeLoginDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/src/test/java/utilities/CrossDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/src/test/java/utilities/TestBaseCross.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/target/test-classes/tests/day20_xmlFiles/C01_BugunXmlDosyalarOlusturuldu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/target/test-classes/tests/day22_crossBrowser/C01_AssertionsCross.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/target/test-classes/tests/day22_crossBrowser/C02_SoftAssertCross.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/target/test-classes/tests/day22_crossBrowser/C03_DataProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/target/test-classes/utilities/CrossDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.TestNG_Batch59/target/test-classes/utilities/TestBaseCross.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/drivers/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/CHANGELOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-api-4.1.3-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-api-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-chrome-driver-4.1.3-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-chrome-driver-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-chromium-driver-4.1.3-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-chromium-driver-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-devtools-v85-4.1.3-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-devtools-v85-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-devtools-v97-4.1.3-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-devtools-v97-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-devtools-v98-4.1.3-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-devtools-v98-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-devtools-v99-4.1.3-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-devtools-v99-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-edge-driver-4.1.3-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-edge-driver-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-firefox-driver-4.1.3-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-firefox-driver-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-http-4.1.3-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-http-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-ie-driver-4.1.3-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-ie-driver-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-java-4.1.3-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-java-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-json-4.1.3-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-json-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-opera-driver-4.1.3-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-opera-driver-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-remote-driver-4.1.3-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-remote-driver-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-safari-driver-4.1.3-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-safari-driver-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-support-4.1.3-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/resources/libraries/selenium-support-4.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/src/test/java/ubungen/ErsteKlasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/src/test/java/ubungen/Hausaufgabe_10_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/src/test/java/ubungen/Hausaufgabe_31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/src/test/java/ubungen/Hausaufgabe_54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/src/test/java/ubungen/Hausaufgabe_60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.seleniumErstProjekt/src/test/java/ubungen/ManageMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../praxis/praxis.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2A7oBP3bXwiTz6DMZMasaKe3zrB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="683125ca-2697-4439-bfb6-f4f99b5e16e9" name="Changes" comment="" />
+      <created>1654369852504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654369852504</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
