@@ -3,12 +3,9 @@ package ubungen;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import java.util.Arrays;
-
-public class hausaufgabe54 {
+public class Hausaufgabe_54 {
     /*
         1. Bir class oluşturun : AmazonSearchTest
         2. Main method oluşturun ve aşağıdaki görevi tamamlayın.

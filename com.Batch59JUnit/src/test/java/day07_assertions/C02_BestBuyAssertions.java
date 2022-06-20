@@ -1,4 +1,4 @@
-package day06_BeforeAfterClass.day07_assertions;
+package day07_assertions;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.AfterClass;

@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<!-- bir xml dosyasi ile projemizde istedigimiz testleri, package lari, class`lari -->
+<suite name="istenen classlar calistirma">
+    <test name="classlar">
+        <classes>
+            <class name="test.day_10_actions.C01_TestBaseFirstClass">
+
+
+            </class>
+        </classes>
+    </test>
+</suite>

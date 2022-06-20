@@ -23,7 +23,11 @@ public class C06_KeyboardActions extends TestBase {
                 .sendKeys(Keys.TAB)
                 .sendKeys("Ustaoglu")
                 .sendKeys(Keys.TAB)
-                .sendKeys("ghfdf@gmail.com").perform();
+                .sendKeys("ghfdf@gmail.com")
+                .sendKeys(Keys.TAB)
+                .sendKeys("ghfdf@gmail.com")
+                .perform();
+
         Thread.sleep(5000);
     }
 }

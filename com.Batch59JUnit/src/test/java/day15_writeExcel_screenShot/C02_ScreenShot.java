@@ -1,3 +1,5 @@
+package day15_writeExcel_screenShot;
+
 import org.apache.commons.io.FileUtils;
 import org.junit.Test;
 import org.openqa.selenium.OutputType;
