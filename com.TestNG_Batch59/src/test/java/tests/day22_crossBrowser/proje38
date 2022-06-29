@@ -1,0 +1,58 @@
+package tests.US_013;
+
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.interactions.Actions;
+import org.testng.annotations.Test;
+import pages.CouponPage;
+import pages.TradylinnPage;
+import utilities.ConfigReader;
+import utilities.Driver;
+
+public class US_013 {
+    Actions action = new Actions(Driver.getDriver());
+    TradylinnPage trd = new TradylinnPage();
+    CouponPage cpn = new CouponPage();
+    JavascriptExecutor jse = (JavascriptExecutor)Driver.getDriver();
+    LocalDateTime now = LocalDateTime.now();
+    DateTimeFormatter format = DateTimeFormatter.ofPattern("dd-MM-yyyy HH:mm:ss");
+    String formatDateTime;
+
+    public US_013() {
+        this.formatDateTime = this.now.format(this.format);
+    }
+
+    @Test
+    public void TC13_01() {
+        Driver.getDriver().get(ConfigReader.getProperty("tradylinnUrl"));
+        this.trd.girisYap.click();
+        this.trd.username.sendKeys(new CharSequence[]{ConfigReader.getProperty("VendorUsername")});
+        this.trd.password.sendKeys(new CharSequence[]{ConfigReader.getProperty("VendorPassword")});
+        this.trd.girisYapButton.click();
+        this.trd.hesabim.click();
+        this.trd.storMenager.click();
+    }
+
+    @Test
+    public void TC13_02() throws InterruptedException {
+        this.jse.executeScript("window.scrollBy(0,250)", new Object[0]);
+        this.cpn.coupon.click();
+        this.cpn.addCoupon.click();
+        this.cpn.CouponCode.sendKeys(new CharSequence[]{"HelloSummer2022" + this.formatDateTime});
+        this.cpn.CouponCode.sendKeys(new CharSequence[]{Keys.TAB});
+        this.cpn.Description.sendKeys(new CharSequence[]{"Yaza özel kampanya"});
+        this.action.sendKeys(new CharSequence[]{Keys.TAB}).sendKeys(new CharSequence[]{Keys.TAB}).sendKeys(new CharSequence[]{"25"}).sendKeys(new CharSequence[]{Keys.TAB}).sendKeys(new CharSequence[]{"2022-08-31"}).sendKeys(new CharSequence[]{Keys.TAB}).perform();
+        Thread.sleep(20L);
+        this.jse.executeScript("arguments[0].click();", new Object[]{this.cpn.FreeShipping});
+        Thread.sleep(20L);
+        this.jse.executeScript("arguments[0].click();", new Object[]{this.cpn.ShowOnStore});
+    }
+
+    @Test
+    public void TC14_01() throws InterruptedException {
+        this.cpn.MinimumSpend.sendKeys(new CharSequence[]{"3500"});
+        this.cpn.MaximumSpend.sendKeys(new CharSequence[]{"6900"});
+    }
+}
